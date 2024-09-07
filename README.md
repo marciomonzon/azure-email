@@ -10,6 +10,12 @@
 <p> 
   This app sends email through Azure Communication Service. You just put the connection string tha can be taken in the service keys.
 </p>
+
+![image](https://github.com/user-attachments/assets/7da7554b-9845-4dcb-9a42-a0ec5dbbb07d)
+
+
+<br>
+
 <p>
   Needs an Azure Comm Service, an email domain and an email username.
 </p>
